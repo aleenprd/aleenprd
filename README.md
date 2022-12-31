@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/ryo-ma/github-profile-trophy
+https://github.com/aleenprd/github-profile-trophy
