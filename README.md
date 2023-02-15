@@ -1,18 +1,8 @@
 ### Hi there, friend 👋
 
-<!--
-**aleenprd/aleenprd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Identity Resolution using Graph Neural Networks.
+- 🌱 I’m currently learning how to build Telegram bots, and a bit of Scala and Polars on the side.
+- 👯 I’m looking to collaborate on projects that require Python/Spark expertize.
+- 🤔 I’m looking for help with DevOps/MLOps :D.
 - 💬 Ask me about Data Science and Data Engineering
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aleenprd&theme=onedark&column=3&margin-w=15&margin-h=15&no-frame=true))](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me: shoot me a message at cristian.alin.preda@gmail.com
